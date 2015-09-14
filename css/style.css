@@ -1,0 +1,34 @@
+.tu_wrapper {
+	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.user_thumb {
+    margin: 5px auto 20px;
+}
+
+.user_badge {
+		margin: auto 5px 20px auto;
+}
+
+.wd-user_badge {
+    margin: auto 0px 20px auto;
+}
+
+.tu_meta {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.tu_meta li {
+    font-size: 14px;
+    list-style-type: none;
+}
+
+.items {
+    margin-top: 30px;
+}
+
+.single-item {
+    margin-bottom: 20px;
+}

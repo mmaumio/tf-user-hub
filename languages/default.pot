@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeforest User Hub\n"
+"POT-Creation-Date: 2015-09-13 16:46+0600\n"
+"PO-Revision-Date: 2015-09-13 16:47+0600\n"
+"Last-Translator: Muntasir Mahmud <themepicasso@gmail.com>\n"
+"Language-Team: ThemePicasso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/tu-shortcodes.php:29
+msgid "Please insert a Themeforest User ID."
+msgstr ""
+
+#: inc/tu-shortcodes.php:39
+msgid "Oops… Something went wrong. Please check out the User ID and try again."
+msgstr ""
+
+#: inc/tu-shortcodes.php:64 inc/tu-widgets.php:64
+msgid "Website: "
+msgstr ""
+
+#: inc/tu-shortcodes.php:78 inc/tu-widgets.php:77
+msgid "Username: "
+msgstr ""
+
+#: inc/tu-shortcodes.php:79 inc/tu-widgets.php:78
+msgid "Country: "
+msgstr ""
+
+#: inc/tu-shortcodes.php:80 inc/tu-widgets.php:79
+msgid "Sales: "
+msgstr ""
+
+#: inc/tu-shortcodes.php:81 inc/tu-widgets.php:80
+msgid "Followers: "
+msgstr ""
+
+#: inc/tu-shortcodes.php:90 inc/tu-widgets.php:87
+msgid "Latest Items"
+msgstr ""
+
+#: inc/tu-widgets.php:12
+msgid "Themeforest User Hub"
+msgstr ""
+
+#: inc/tu-widgets.php:13
+msgid "Display some useful information about a Themeforest User"
+msgstr ""
+
+#: inc/tu-widgets.php:140
+msgid "Title:"
+msgstr ""
+
+#: inc/tu-widgets.php:145
+msgid "Themeforest Username:"
+msgstr ""
+
+#: inc/tu-widgets.php:151
+msgid "Number of Recent Items:"
+msgstr ""
